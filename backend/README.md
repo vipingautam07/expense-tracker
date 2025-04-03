@@ -1,1 +1,1 @@
-Live App : https://expense-tracker-smoky-nine.vercel.app/
+Run server using node server.js
